@@ -1,0 +1,12 @@
+{
+  "composerId": "4f0dcccc-e5e2-46f2-b957-f9674a009a46",
+  "name": "Build static UI script error",
+  "messageCount": 9,
+  "exportedAt": "2026-09-12T18:03:52.612218+00:00",
+  "sourceMachine": "archlinux",
+  "sourceHost": null,
+  "sourceProjectPath": "/home/arp/dev/faculty",
+  "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
+  "version": 3,
+  "shardCount": null
+}

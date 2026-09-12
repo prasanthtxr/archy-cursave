@@ -1,0 +1,12 @@
+{
+  "composerId": "e491d53e-126e-4a1e-9326-614dea736eee",
+  "name": "AWS CodeBuild format issue",
+  "messageCount": 82,
+  "exportedAt": "2026-09-12T18:03:49.387936+00:00",
+  "sourceMachine": "archlinux",
+  "sourceHost": null,
+  "sourceProjectPath": "/home/arp/dev/faculty",
+  "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
+  "version": 3,
+  "shardCount": null
+}
