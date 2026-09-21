@@ -2,10 +2,10 @@
   "composerId": "1587b3cd-7c7c-4429-98ff-d17e15423cab",
   "name": "Interview CTA text",
   "messageCount": 52,
-  "exportedAt": "2026-09-21T04:41:19.760773+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-21T04:45:26.193622+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
