@@ -2,10 +2,10 @@
   "composerId": "3c48faeb-0a8c-4bd5-8f7f-fa02d95aa784",
   "name": "CreateJobListingModal update plan",
   "messageCount": 133,
-  "exportedAt": "2026-09-16T12:01:54.024035+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-21T04:42:16.831814+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/faculty",
+  "sourceProjectPath": "/home/arp/dev/faculty",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
   "version": 3,
   "shardCount": null

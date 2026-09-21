@@ -2,10 +2,10 @@
   "composerId": "b1712d5b-4017-404c-b920-1ea85ecd4dc2",
   "name": "SVG conversion plan",
   "messageCount": 289,
-  "exportedAt": "2026-09-16T12:01:54.114816+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-21T04:42:17.006132+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/faculty",
+  "sourceProjectPath": "/home/arp/dev/faculty",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
   "version": 3,
   "shardCount": null

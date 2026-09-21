@@ -2,10 +2,10 @@
   "composerId": "3ae0277e-9088-4b48-8614-80d919e126c0",
   "name": "Auth page ID plan",
   "messageCount": 177,
-  "exportedAt": "2026-09-16T12:01:53.717612+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-21T04:42:16.045674+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/faculty",
+  "sourceProjectPath": "/home/arp/dev/faculty",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
   "version": 3,
   "shardCount": null

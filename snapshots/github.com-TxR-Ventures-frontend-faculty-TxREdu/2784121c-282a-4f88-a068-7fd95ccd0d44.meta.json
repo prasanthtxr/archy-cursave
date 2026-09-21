@@ -2,10 +2,10 @@
   "composerId": "2784121c-282a-4f88-a068-7fd95ccd0d44",
   "name": "System wide output style",
   "messageCount": 74,
-  "exportedAt": "2026-09-16T12:01:53.792523+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-21T04:42:16.369969+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/faculty",
+  "sourceProjectPath": "/home/arp/dev/faculty",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-faculty-TxREdu",
   "version": 3,
   "shardCount": null
