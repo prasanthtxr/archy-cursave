@@ -2,10 +2,10 @@
   "composerId": "b3789a69-f046-4092-8c2d-bfede7904e0d",
   "name": "Camera microphone permission issue",
   "messageCount": 38,
-  "exportedAt": "2026-09-17T12:25:20.885970+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-21T04:41:20.552916+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
