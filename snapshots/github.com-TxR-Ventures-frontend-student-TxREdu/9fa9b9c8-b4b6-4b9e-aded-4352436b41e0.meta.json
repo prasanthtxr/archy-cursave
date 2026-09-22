@@ -2,10 +2,10 @@
   "composerId": "9fa9b9c8-b4b6-4b9e-aded-4352436b41e0",
   "name": "Webcam permission error handling",
   "messageCount": 53,
-  "exportedAt": "2026-09-21T12:36:38.073303+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-22T04:48:13.805303+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

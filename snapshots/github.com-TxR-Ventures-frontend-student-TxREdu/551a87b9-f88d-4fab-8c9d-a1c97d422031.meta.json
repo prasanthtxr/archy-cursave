@@ -2,10 +2,10 @@
   "composerId": "551a87b9-f88d-4fab-8c9d-a1c97d422031",
   "name": "User-facing issue explanation",
   "messageCount": 133,
-  "exportedAt": "2026-09-21T12:36:37.668861+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-22T04:48:13.059915+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

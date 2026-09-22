@@ -2,10 +2,10 @@
   "composerId": "cb1dd338-2085-447e-a6ab-629f8666f124",
   "name": "Implementation validation and overview",
   "messageCount": 73,
-  "exportedAt": "2026-09-21T12:36:36.613145+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-22T04:48:11.836157+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
