@@ -2,10 +2,10 @@
   "composerId": "316d8013-fef2-4cf6-8b99-fac2b6ae3ac3",
   "name": "SimpleVideoRecorder issue",
   "messageCount": 260,
-  "exportedAt": "2026-09-22T04:48:13.362184+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-22T10:56:38.377534+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

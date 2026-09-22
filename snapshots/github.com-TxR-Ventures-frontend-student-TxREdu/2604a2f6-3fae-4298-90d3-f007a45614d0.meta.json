@@ -2,10 +2,10 @@
   "composerId": "2604a2f6-3fae-4298-90d3-f007a45614d0",
   "name": "Todo creation from plan",
   "messageCount": 343,
-  "exportedAt": "2026-09-22T04:48:11.199221+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-22T10:56:36.700992+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

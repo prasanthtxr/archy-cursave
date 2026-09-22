@@ -2,10 +2,10 @@
   "composerId": "12426e18-c714-47bf-9cfc-7f8f1beb3271",
   "name": "Agent transcripts side conversations",
   "messageCount": 181,
-  "exportedAt": "2026-09-22T04:48:11.559435+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-22T10:56:36.904779+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

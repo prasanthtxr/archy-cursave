@@ -2,10 +2,10 @@
   "composerId": "f4c118a6-e455-453b-a847-f10a3d10c596",
   "name": "Rebase undo request",
   "messageCount": 141,
-  "exportedAt": "2026-09-22T04:48:10.903937+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-22T10:56:36.550580+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
