@@ -2,10 +2,10 @@
   "composerId": "b60f6d4c-a758-42f1-ae61-bc8eca0427d8",
   "name": "API endpoint documentation updates",
   "messageCount": 221,
-  "exportedAt": "2026-09-22T12:53:08.980963+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-28T05:01:26.452922+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

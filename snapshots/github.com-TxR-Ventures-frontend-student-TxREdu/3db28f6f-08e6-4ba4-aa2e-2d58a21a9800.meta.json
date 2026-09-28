@@ -2,10 +2,10 @@
   "composerId": "3db28f6f-08e6-4ba4-aa2e-2d58a21a9800",
   "name": "Media upload failure analysis",
   "messageCount": 41,
-  "exportedAt": "2026-09-22T12:53:07.926169+00:00",
-  "sourceMachine": "mini",
+  "exportedAt": "2026-09-28T05:01:25.723879+00:00",
+  "sourceMachine": "archlinux",
   "sourceHost": null,
-  "sourceProjectPath": "/Users/prasanth/dev/student",
+  "sourceProjectPath": "/home/arp/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
