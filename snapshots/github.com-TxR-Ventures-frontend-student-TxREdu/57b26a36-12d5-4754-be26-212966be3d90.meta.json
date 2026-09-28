@@ -2,10 +2,10 @@
   "composerId": "57b26a36-12d5-4754-be26-212966be3d90",
   "name": "Webcam issues plan",
   "messageCount": 133,
-  "exportedAt": "2026-09-28T05:01:24.681193+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:23.663350+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

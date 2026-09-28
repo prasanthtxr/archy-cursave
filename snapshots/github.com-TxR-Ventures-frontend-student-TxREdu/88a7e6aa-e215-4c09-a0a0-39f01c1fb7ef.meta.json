@@ -2,10 +2,10 @@
   "composerId": "88a7e6aa-e215-4c09-a0a0-39f01c1fb7ef",
   "name": "Quick quiz question features",
   "messageCount": 155,
-  "exportedAt": "2026-09-28T05:01:26.274277+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:24.384105+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

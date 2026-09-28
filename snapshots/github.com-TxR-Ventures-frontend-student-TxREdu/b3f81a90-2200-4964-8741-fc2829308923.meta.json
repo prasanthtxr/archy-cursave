@@ -2,10 +2,10 @@
   "composerId": "b3f81a90-2200-4964-8741-fc2829308923",
   "name": "UI improvements and enhancements",
   "messageCount": 88,
-  "exportedAt": "2026-09-28T05:01:25.817693+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:24.251694+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

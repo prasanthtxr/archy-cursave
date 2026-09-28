@@ -2,10 +2,10 @@
   "composerId": "fdb68d01-4987-4201-b4fc-94fa27057634",
   "name": "Internet disconnection handling",
   "messageCount": 202,
-  "exportedAt": "2026-09-28T05:01:25.186967+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:23.935243+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

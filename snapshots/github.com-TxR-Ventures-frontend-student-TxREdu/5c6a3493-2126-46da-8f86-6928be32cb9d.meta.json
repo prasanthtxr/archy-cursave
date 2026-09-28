@@ -2,10 +2,10 @@
   "composerId": "5c6a3493-2126-46da-8f86-6928be32cb9d",
   "name": "ID automation setup",
   "messageCount": 28,
-  "exportedAt": "2026-09-28T05:01:25.920119+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:24.299589+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null

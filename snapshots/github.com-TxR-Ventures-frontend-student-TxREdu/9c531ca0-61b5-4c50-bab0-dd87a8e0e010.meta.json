@@ -2,10 +2,10 @@
   "composerId": "9c531ca0-61b5-4c50-bab0-dd87a8e0e010",
   "name": "Auto refresh implementation",
   "messageCount": 182,
-  "exportedAt": "2026-09-28T05:01:24.454125+00:00",
-  "sourceMachine": "archlinux",
+  "exportedAt": "2026-09-28T10:21:23.225100+00:00",
+  "sourceMachine": "mini",
   "sourceHost": null,
-  "sourceProjectPath": "/home/arp/dev/student",
+  "sourceProjectPath": "/Users/prasanth/dev/student",
   "projectIdentifier": "github.com-TxR-Ventures-frontend-student-TxREdu",
   "version": 3,
   "shardCount": null
