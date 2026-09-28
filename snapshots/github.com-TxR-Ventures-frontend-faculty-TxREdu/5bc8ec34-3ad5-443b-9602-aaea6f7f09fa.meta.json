@@ -1,8 +1,8 @@
 {
-  "composerId": "4f0dcccc-e5e2-46f2-b957-f9674a009a46",
-  "name": "Build static UI script error",
-  "messageCount": 9,
-  "exportedAt": "2026-09-28T05:02:28.157641+00:00",
+  "composerId": "5bc8ec34-3ad5-443b-9602-aaea6f7f09fa",
+  "name": "Automation IDs for resources",
+  "messageCount": 188,
+  "exportedAt": "2026-09-28T05:02:24.056786+00:00",
   "sourceMachine": "archlinux",
   "sourceHost": null,
   "sourceProjectPath": "/home/arp/dev/faculty",
